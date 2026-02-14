@@ -40,26 +40,6 @@ A full-stack platform that improves hospital workflow by digitizing appointments
 
 ---
 
-  
-
-## 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashkinikar6&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkinikar6&layout=compact&theme=tokyonight" />
-</p>
-
-
-
-
-
----
-
 ## 🌐 Connect With Me  
 
 - 💼 LinkedIn: https://www.linkedin.com/in/yash-kinikar-3058b6292/
