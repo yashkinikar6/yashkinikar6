@@ -43,9 +43,10 @@ A full-stack platform that improves hospital workflow by digitizing appointments
 ## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashkinkar6&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkinkar6&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashkinikar6&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkinikar6&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
